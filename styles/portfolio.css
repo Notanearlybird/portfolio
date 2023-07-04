@@ -1,6 +1,10 @@
+
+/* font-family: 'Playfair', serif;
+/* font-family: 'Poppins', sans-serif;
+
 body {
   background-color: navy;
 }
-h1 {
+h1 {font-family: 'Playfair', serif;
   color: aliceblue;
 }
