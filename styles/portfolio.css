@@ -6,5 +6,10 @@ body {
   background-color: navy;
 }
 h1 {font-family: 'Playfair', serif;
-  color: aliceblue;
+  font-weight: bold;
+}
+
+
+p { font-family: 'Poppins', sans-serif;
+  font-weight: normal;
 }
